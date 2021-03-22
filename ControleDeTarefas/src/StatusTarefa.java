@@ -1,0 +1,3 @@
+enum StatusTarefa {
+	CONCLUIDA, PENDENTE;
+}
