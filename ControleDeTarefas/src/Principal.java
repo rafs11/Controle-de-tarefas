@@ -16,9 +16,6 @@ public class Principal {
 		tarefa.adicionaItem(item2);
 		
 		item2.concluir("01/04/2021");
-		
-		System.out.println(item1);
-		System.out.println(item2);
 	}
 
 }
